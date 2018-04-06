@@ -1,17 +1,12 @@
 PJV
 Programming in Java, 2nd semester
 
-HW1
-Kalkulačka
+Lab01 - Kalkulačka
 
-HW2
-Výpočet statistiky číselné posloupnosti
+Lab02 - Výpočet statistiky číselné posloupnosti
 
-HW3
-Kruhová fronta
+Lab03 - Kruhová fronta
 
-HW4
-Lámání hesel
+Lab04 - Lámání hesel
 
-HW5
-Binární strom
+Lab05 - Binární strom
